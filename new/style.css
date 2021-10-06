@@ -272,6 +272,10 @@ a:hover {
     margin-top: 80px;
 }
 
+figcaption {
+    color: rgb(87, 87, 87);
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
