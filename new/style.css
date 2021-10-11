@@ -915,9 +915,14 @@ h4 {
     h6,
     p,
     #disqus_thread {
-        padding-left: 10px !important;
-        padding-right: 10px !important;
+        padding-left: 10px;
+        padding-right: 10px;
     }
+
+    .row__h2 {
+        padding: 1rem 2rem;
+    }
+
     .b-parallax {
         background-attachment: scroll;
     }
